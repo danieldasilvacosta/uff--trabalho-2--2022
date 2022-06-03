@@ -1,4 +1,4 @@
-field0  field1  field2  field3  field4  field5  field6  field7  field8  field9
+_	_	_	_	_	_	_	_	_	_
 1	Pequenos	pequeno	NOUN	_	Gender=Masc|Number=Plur	3	nsubj	_	_
 2	são	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
 3	agentes	agente	NOUN	_	Gender=Masc|Number=Plur	0	root	_	_
