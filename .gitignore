@@ -6,8 +6,7 @@ pyvenv.cfg
 share/
 dev/.ipynb_checkpoints/*
 Scripts/
-./dev/verify_datasets.ipynb
-./dev/pos_tagger_gru.final.pt
-./dev/pos_tagger_gru.pt
-./dev/pos_tagger_lstm.final.pt
-./dev/pos_tagger_lstm.pt
+dev/pos_tagger_gru.final.pt
+dev/pos_tagger_gru.pt
+dev/pos_tagger_lstm.final.pt
+dev/pos_tagger_lstm.pt
