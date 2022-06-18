@@ -1,7 +1,0 @@
-[youtube] [video]
-Aula 7.7: HuggingFace: BERT para Classificação de Tokens | Linguística Computacional
-https://www.youtube.com/watch?v=vmESQMrIjNk
-
-[code]
-Treinamento de Word Embeddings (CBOW e Skip-gram) e Modelos de Linguagem Neurais Pré-treinados
-https://colab.research.google.com/drive/1dBIKowtIEhM8MaPgDTkBvPLhikCuxOsU?usp=sharing#scrollTo=k244ZRtr2hiZ
